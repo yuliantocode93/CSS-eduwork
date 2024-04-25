@@ -1,0 +1,27 @@
+body {
+  font-family: century gothic;
+}
+
+.menu {
+  text-decoration: none;
+  color: black;
+}
+
+.menu:hover {
+  text-decoration: underline;
+}
+
+.slider {
+  height: 500px;
+  background-color: #ddd;
+}
+
+.line {
+  background-color: rgb(46, 46, 6);
+  width: 100px;
+  height: 2px;
+}
+
+.content {
+  text-align: justify;
+}
